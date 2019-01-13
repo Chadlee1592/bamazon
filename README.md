@@ -19,4 +19,4 @@
 
 5. Enter in the ID number and provide how many quantities you would like to purchase.
 
-<img src="https://github.com/Chadlee1592/bamazon/blob/master/3.png?raw=true" width"400">
+<img src="https://github.com/Chadlee1592/bamazon/blob/master/3.png?raw=true" width="400">
