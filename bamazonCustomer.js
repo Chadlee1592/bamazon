@@ -85,7 +85,7 @@ function buyItem() {
                     " || Department: " +
                     res[0].department +
                     " || Total Cost: " +
-                    res[0].price * ans + 
+                    res[0].price * ans.buy + 
                     " Thank you!"
                     )
                     var query1 = "UPDATE product SET stock = stock - ? WHERE item_id = ?"
